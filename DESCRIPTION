@@ -1,0 +1,9 @@
+Package: nwcorner
+Type: Package
+Title: Nort West Corner Method
+Version: 1.0
+Date: 2019-04-02
+Author: Bilge Kagan Ozbay
+Maintainer: bozbay@ogr.iu.edu.tr
+Description: This package calculates the northwest corner method.
+License: GPL
